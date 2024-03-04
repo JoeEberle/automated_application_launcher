@@ -1,10 +1,10 @@
-# Archival Automation  - Backup and archive important data sets automatically 
+# Automated Application Launcher  - Launch any Application anytime 
 
 ![Code Logo](code.png)
 
 ## Description
 
-Welcome to the ** Archival Automation ** repository! This solutions how to archive !!!   
+Welcome to the ** Automated Application Launcher ** repository!  Launch any Application anytime  !!!   
 
 ![Code Logo](code.png)
 
@@ -34,7 +34,7 @@ The are many ways to do this. It isnt perfect !!! so Experiment. Branch it, conf
 
 ## Getting Started
 
-To get started with the ** Correlation Heatmap ** project, follow these steps:
+To get started with the **  Launch any Application anytime  ** project, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Install the required dependencies listed at the top of the notebook.
