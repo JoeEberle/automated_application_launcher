@@ -6,12 +6,6 @@
 
 Welcome to the ** Automated Application Launcher ** repository!  Launch any Application anytime  !!!   
 
-![Code Logo](code.png)
-
-## NOTE - THIS REPOSITORY WORK IN PROGRESS 
-
-The are many ways to do this. It isnt perfect !!! so Experiment. Branch it, configure it, and Change it. 
-
 ## Features
 
 - Easily to understand and use  
