@@ -16,8 +16,8 @@ The are many ways to do this. It isnt perfect !!! so Experiment. Branch it, conf
 
 - Easily to understand and use  
 - Easily Configurable 
-- Protects you important Data
 - Its Fast and Automated
+- Launch any application at any time
 - It can be scheduled so you never forget 
 
 
@@ -34,7 +34,7 @@ The are many ways to do this. It isnt perfect !!! so Experiment. Branch it, conf
 
 ## Getting Started
 
-To get started with the **  Launch any Application anytime  ** project, follow these steps:
+To get started with the **  Automated Application Launcher  ** project, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Install the required dependencies listed at the top of the notebook.
