@@ -4,7 +4,7 @@
 
 ## Description
 
-Welcome to the ** Automated Application Launcher ** repository!  Launch any Application anytime  !!!   
+Welcome to the **Automated Application Launcher** repository!  Launch any Application anytime  !!!   
 
 ## Features
 
