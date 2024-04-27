@@ -38,4 +38,4 @@ To get started with the **Automated Application Launcher** solution repository, 
 ![Developer](developer.png)
 
 ![Brand](brand.png)
-    ![additional_image](automated_application_launcher.png)  <br>
+    ![additional_image](automated_application_launcher.png)  <br>![additional_image](Banner3.png)  <br>![additional_image](Banner4.png)  <br>![additional_image](Banner6.png)  <br>![additional_image](brand2.png)  <br>![additional_image](brand3.png)  <br>![additional_image](brand4.png)  <br>
