@@ -18,9 +18,9 @@ Automated Application Launcher launches any application you want on a schedule o
 
 ## Notebook Features
 - **Self Documenting** - Automatically identifes major steps in notebook 
-- **Self Testing** - Unit Testing for each ptyhon function
+- **Self Testing** - Unit Testing for each function
 - **Easily Configurable** -easily modifyable with config.INI name value pairs
-- **Includes Talking Code** - The code explains itself.
+- **Includes Talking Code** - The code explains itself 
 - **Self Logging** - enhanced python standard logging   
 - **Self Debugging** - enhanced python standard debugging
 - **Low Code - or - No Code** - Most solutions are under 50 lines of code
@@ -38,4 +38,4 @@ To get started with the **Automated Application Launcher** solution repository, 
 ![Developer](developer.png)
 
 ![Brand](brand.png)
-    ![additional_image](automated_application_launcher.png)  <br>![additional_image](Banner3.png)  <br>![additional_image](Banner4.png)  <br>![additional_image](Banner6.png)  <br>![additional_image](brand2.png)  <br>![additional_image](brand3.png)  <br>![additional_image](brand4.png)  <br>
+    ## Deliverables or Figures![additional_image](automated_application_launcher.png)  <br>![additional_image](Banner3.png)  <br>![additional_image](Banner4.png)  <br>![additional_image](Banner6.png)  <br>![additional_image](brand2.png)  <br>![additional_image](brand3.png)  <br>![additional_image](brand4.png)  <br>
