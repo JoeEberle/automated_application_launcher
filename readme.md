@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Automated Application Launcher - Automated Application Launcher launches any application you want on a schedule or through voice commands
 Automated Application Launcher launches any application you want on a schedule or through voice commands
 
@@ -9,8 +11,6 @@ Welcome to the solution **Automated Application Launcher** - an example for your
 Automated Application Launcher launches any application you want on a schedule or through voice commands
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
