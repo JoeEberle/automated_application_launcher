@@ -34,6 +34,7 @@ To get started with the **Automated Application Launcher** solution repository, 
 - **Self Debugging** - Enhanced python standard debugging
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
+- **Secure** - All the sample solutions are secure and use synthetic data, ensuring they contain no sensitive data or information.
     
 ## Deliverables or Figures
  ![additional_image](automated_application_launcher.png)  <br>![additional_image](Banner3.png)  <br>![additional_image](Banner4.png)  <br>![additional_image](Banner6.png)  <br>![additional_image](brand2.png)  <br>![additional_image](brand3.png)  <br>![additional_image](brand4.png)  <br>
