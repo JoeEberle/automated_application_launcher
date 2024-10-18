@@ -2,7 +2,7 @@
 Welcome to the solution **Automated Application Launcher** - an example for your projects
 
 Automated Application Launcher launches any application you want on a schedule or through voice commands
-![Image image_filename](sample.png)
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
