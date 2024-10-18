@@ -1,6 +1,9 @@
 ![Image image_filename](solution_sign.png)
-    # Automated Application Launcher 
-    ## Automated Application Launcher launches any application you want on a schedule or through voice commands
+    
+# Automated Application Launcher 
+
+## Automated Application Launcher launches any application you want on a schedule or through voice commands
+
     ![Image image_filename](code.png)
 Welcome to the solution **Automated Application Launcher** - an example for your projects
 
@@ -25,9 +28,9 @@ To get started with the **Automated Application Launcher** solution repository, 
 - Saves You Time 
 
 
-## Notebook Features
+## Code Features
 
-These Features are design to provide everything you need for **Knowledge Transfer** 
+These features are designed to provide everything you need for **Automated Application Launcher** 
 
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
@@ -37,6 +40,7 @@ These Features are design to provide everything you need for **Knowledge Transfe
 - **Self Debugging** - Enhanced python standard debugging
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
+
     
 ## List of Figures
  ![additional_image](automated_application_launcher.png)  <br>![additional_image](Banner3.png)  <br>![additional_image](Banner4.png)  <br>![additional_image](Banner6.png)  <br>![additional_image](brand2.png)  <br>![additional_image](brand3.png)  <br>![additional_image](brand4.png)  <br>
