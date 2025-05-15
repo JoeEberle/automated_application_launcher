@@ -51,13 +51,3 @@ To get started with the **Automated Application Launcher** solution repository, 
 - ✅ **Educational** Each template includes educational narrative and background context to support learning, teaching, and collaborative development.
 
     
-## List of Figures
- ![additional_image](automated_application_launcher.png)  <br>![additional_image](Banner3.png)  <br>![additional_image](Banner4.png)  <br>![additional_image](Banner6.png)  <br>![additional_image](brand2.png)  <br>![additional_image](brand3.png)  <br>![additional_image](brand4.png)  <br>
-    
-
-## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
-    
-![Developer](developer.png)
-
-![Brand](brand.png)
-    
